@@ -22,5 +22,4 @@ Desenvolvedor focado em backend Java e apps mobile com React Native.
 
 ---
 
-💼 Aberto a oportunidades como desenvolvedor junior
 📍 Goiânia, GO
