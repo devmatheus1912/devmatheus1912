@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, sou Matheus 👋
 
-<!--
-**devmatheus1912/devmatheus1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em backend Java e apps mobile com React Native.
 
-Here are some ideas to get you started:
+## O que estou construindo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **spring-boot-react-native-starter** — API REST + App Mobile com JWT
+- 📱 **ta-evolution-mobile** — App de treinos e dietas para iOS e Android
+
+## Tecnologias
+
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2-green)
+![React Native](https://img.shields.io/badge/React_Native-Expo-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
+
+## Atualmente aprendendo
+
+- Arquitetura de APIs REST com Spring Boot
+- Desenvolvimento mobile com React Native e Expo
+- Versionamento profissional com Git e GitHub
+
+---
+
+💼 Aberto a oportunidades como desenvolvedor junior
+📍 Goiânia, GO
