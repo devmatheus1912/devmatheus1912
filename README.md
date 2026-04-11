@@ -53,12 +53,19 @@ Desenvolvedor especializado em APIs REST com Java e aplicativos mobile multiplat
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=devmatheus1912&show_icons=true&theme=dark&bg_color=0a0f1a&border_color=ffffff15&title_color=ffffff&text_color=ffffff80&icon_color=ffffff60&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheus1912&layout=compact&theme=dark&bg_color=0a0f1a&border_color=ffffff15&title_color=ffffff&text_color=ffffff80&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=devmatheus1912&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=false&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheus1912&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=6" />
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=devmatheus1912&theme=github-dark-blue&hide_border=false&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</div>
+
 
 ## Contato
 
