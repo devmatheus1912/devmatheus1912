@@ -51,20 +51,18 @@ Desenvolvedor especializado em APIs REST com Java e aplicativos mobile multiplat
 
 <br/>
 
-## GitHub Stats
-
-## GitHub Stats
+## Atividade
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=devmatheus1912&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=false&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheus1912&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=6" />
-</div>
 
-<br/>
+![](https://komarev.com/ghpvc/?username=devmatheus1912&color=0a0f1a&style=for-the-badge&label=VISITANTES)
+
+</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devmatheus1912&theme=github-dark-blue&hide_border=false&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmatheus1912&bg_color=0a0f1a&color=ffffff&line=ffffff30&point=ffffff80&area=true&area_color=ffffff10&hide_border=true" width="100%"/>
 </div>
+
 
 
 ## Contato
