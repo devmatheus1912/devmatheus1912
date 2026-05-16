@@ -1,7 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:020617,100:0f172a&height=120&section=header&text=Matheus%20Oliveira&fontSize=40&fontColor=f8fafc&fontAlignY=55&fontAlign=28&desc=Full%20Stack%20%E2%80%94%20Java%20%C2%B7%20Next.js%20%C2%B7%20Flutter&descAlignY=75&descAlign=28&descSize=13&descColor=64748b">
-  <img alt="Matheus Oliveira dos Santos" src="https://capsule-render.vercel.app/api?type=soft&color=0:f8fafc,100:f1f5f9&height=120&section=header&text=Matheus%20Oliveira&fontSize=40&fontColor=0f172a&fontAlignY=55&fontAlign=28&desc=Full%20Stack%20%E2%80%94%20Java%20%C2%B7%20Next.js%20%C2%B7%20Flutter&descAlignY=75&descAlign=28&descSize=13&descColor=475569">
-</picture>
+<div align="center">
+
+# Matheus Oliveira
+
+### Full Stack — Java · Next.js · Flutter
+
+</div>
 
 <br/>
 
@@ -36,14 +39,14 @@ Marketing acadêmico com Payload CMS 3 em PT-BR, páginas ricas de curso, painel
 </p>
 
 <p align="center">
-  <img width="420" alt="Faculdade Goiás — desktop" src="https://raw.githubusercontent.com/devmatheus1912/Faculdade-Goi-s/master/docs/readme-screenshots/faculdade-goias-desktop-editorial.png" />
+  <img width="420" alt="Faculdade Goiás — desktop" src="assets/faculdade-goias-desktop-editorial.png" />
   &nbsp;
-  <img width="260" alt="Faculdade Goiás — mobile" src="https://raw.githubusercontent.com/devmatheus1912/Faculdade-Goi-s/master/docs/readme-screenshots/faculdade-goias-mobile-library.png" />
+  <img width="260" alt="Faculdade Goiás — mobile" src="assets/faculdade-goias-mobile-library.png" />
 </p>
 <p align="center">
-  <img width="420" alt="Faculdade Goiás — hero desktop" src="https://raw.githubusercontent.com/devmatheus1912/Faculdade-Goi-s/master/docs/readme-screenshots/faculdade-goias-desktop-leadership.png" />
+  <img width="420" alt="Faculdade Goiás — hero desktop" src="assets/faculdade-goias-desktop-leadership.png" />
   &nbsp;
-  <img width="260" alt="Faculdade Goiás — hero mobile" src="https://raw.githubusercontent.com/devmatheus1912/Faculdade-Goi-s/master/docs/readme-screenshots/faculdade-goias-mobile-campus.png" />
+  <img width="260" alt="Faculdade Goiás — hero mobile" src="assets/faculdade-goias-mobile-campus.png" />
 </p>
 
 <table>
@@ -109,15 +112,15 @@ Cliente com perfis Personal e Aluno, navegação declarativa, consumo da API com
 
 <p align="center"><b>Interface — fluxos reais do app</b></p>
 <p align="center">
-  <img width="148" alt="FOCUX — login" src="https://raw.githubusercontent.com/devmatheus1912/focux-app/main/docs/github-profile-screenshots/focux-login.png" />
+  <img width="148" alt="FOCUX — login" src="assets/focux-login.png" />
   &nbsp;
-  <img width="148" alt="FOCUX — dashboard" src="https://raw.githubusercontent.com/devmatheus1912/focux-app/main/docs/github-profile-screenshots/focux-dashboard.png" />
+  <img width="148" alt="FOCUX — dashboard" src="assets/focux-dashboard.png" />
   &nbsp;
-  <img width="148" alt="FOCUX — treino" src="https://raw.githubusercontent.com/devmatheus1912/focux-app/main/docs/github-profile-screenshots/focux-workout-detail.png" />
+  <img width="148" alt="FOCUX — treino" src="assets/focux-workout-detail.png" />
   &nbsp;
-  <img width="148" alt="FOCUX — copiloto IA" src="https://raw.githubusercontent.com/devmatheus1912/focux-app/main/docs/github-profile-screenshots/focux-copilot.png" />
+  <img width="148" alt="FOCUX — copiloto IA" src="assets/focux-copilot.png" />
   &nbsp;
-  <img width="148" alt="FOCUX — wallet / pagamentos" src="https://raw.githubusercontent.com/devmatheus1912/focux-app/main/docs/github-profile-screenshots/focux-wallet.png" />
+  <img width="148" alt="FOCUX — wallet / pagamentos" src="assets/focux-wallet.png" />
 </p>
 <p align="center">
   <a href="https://github.com/devmatheus1912/focux-app"><b>Repositório focux-app</b></a>
@@ -140,8 +143,3 @@ Cliente com perfis Personal e Aluno, navegação declarativa, consumo da API com
 </div>
 
 <br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:020617&height=60&section=footer">
-  <img alt="" src="https://capsule-render.vercel.app/api?type=soft&color=0:f1f5f9,100:f8fafc&height=60&section=footer">
-</picture>
