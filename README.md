@@ -1,104 +1,102 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=header"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=160&section=header&text=Matheus%20Oliveira%20dos%20Santos&fontSize=34&fontColor=e2e8f0&fontAlignY=36&desc=Full%20Stack%20%E2%80%94%20SaaS%20%C2%B7%20CMS%20institucional%20%C2%B7%20Mobile&descAlignY=55&descSize=14&descColor=94a3b8&animation=twinkling">
+  <img alt="Capa do perfil — Matheus Oliveira dos Santos" src="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,50:f1f5f9,100:cbd5e1&height=160&section=header&text=Matheus%20Oliveira%20dos%20Santos&fontSize=34&fontColor=0f172a&fontAlignY=36&desc=Full%20Stack%20%E2%80%94%20SaaS%20%C2%B7%20CMS%20institucional%20%C2%B7%20Mobile&descAlignY=55&descSize=14&descColor=475569&animation=twinkling">
+</picture>
 
 <div align="center">
 
-<h1>Matheus Oliveira dos Santos</h1>
-<h3>Full Stack Developer · Java · Spring Boot · React Native · Goiania, BR</h3>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusoliveiradosantos/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devmatheusbb)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=apple&logoColor=white)](mailto:matheusos1912@icloud.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devmatheus1912.github.io/TA-performance-landing)
-
-</div>
-
----
-
-### Sobre mim
-
-- Desenvolvedor Full Stack focado em **Java + React Native**
-- Construo APIs REST robustas e aplicativos mobile para iOS e Android
-- Atualmente construindo o **TA Performance** — plataforma completa de gestao de treinos e nutricao
-- Todos os meus projetos sao feitos do zero, sem templates
-
----
-
-### Tecnologias
-
-<div align="center">
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-**Frontend e Mobile**
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo_SDK_54-000020?style=for-the-badge&logo=expo&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Ferramentas e Deploy**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-### Projetos em destaque
-
-#### TA Performance
-> Plataforma mobile de gestao fitness para personal trainers, alunos e nutricionistas
-
-- **Backend:** Java 17 + Spring Boot 3.2 + PostgreSQL + JWT + Railway
-- **Mobile:** React Native + Expo SDK 54 + iOS & Android
-- **Landing Page:** HTML5 + CSS3 + JavaScript com design responsivo
-- **Funcionalidades:** Criacao de treinos, gestao de exercicios com video, planos alimentares, controle de alunos
-- **Infraestrutura:** API REST no Railway com autenticacao JWT, upload de videos via Cloudinary
-
-[![Backend](https://img.shields.io/badge/Backend-spring--boot--react--native--starter-FF6B00?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/devmatheus1912/spring-boot-react-native-starter)
-[![Mobile](https://img.shields.io/badge/Mobile-ta--evolution--mobile-FF6B00?style=for-the-badge&logo=react&logoColor=white)](https://github.com/devmatheus1912/ta-evolution-mobile)
-[![Landing Page](https://img.shields.io/badge/Web-TA--performance--landing-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/devmatheus1912/TA-performance-landing)
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/devmatheus1912">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmatheus1912&show_icons=true&icon_color=FF6B00&title_color=FF6B00&bg_color=0D1117&border_color=1A1A1A&text_color=FFFFFF&hide_border=false&include_all_commits=true&count_private=true"/>
-</a>
-<a href="https://github.com/devmatheus1912">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheus1912&layout=compact&title_color=FF6B00&bg_color=0D1117&border_color=1A1A1A&text_color=FFFFFF&hide_border=false"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusoliveiradosantos/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/devmatheusbb)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:matheusos1912@icloud.com)
 
 </div>
 
 <br/>
 
+### Sobre
+
+Desenvolvedor **Full Stack** com entregas de ponta a ponta: **APIs** robustas em Java/Spring, **aplicativos** Flutter e **produtos web** em Next.js — sempre com **PostgreSQL**, segurança bem definida (JWT/credentials) e integrações reais (pagamentos, mídia, notificações, IA).
+
+Abaixo, **stacks por produto**, no nível de especificação que eu uso em documentação de projeto e portfólio técnico.
+
+<br/>
+
+---
+
+### Faculdade Goiás — site institucional · CMS · área da equipe
+
+**Escopo:** marketing acadêmico de alta conversão, páginas ricas de curso, credenciamento e-MEC, Payload CMS em PT-BR, `/equipe` com NextAuth e Prisma, CI/CD e deploy documentado.
+
+**Stack**
+
+- **Next.js 16.2.6** — App Router, React Server Components; `force-dynamic` onde o conteúdo depende do CMS.
+- **React 19**
+- **Tailwind v4** — `@import "tailwindcss"`, `@theme inline`, `@tailwindcss/postcss`
+- **shadcn/ui** + utilitários Tailwind
+- **Framer Motion 12** — entradas, carrossel, respeito a `prefers-reduced-motion`
+- **Payload CMS 3.84** — `@payloadcms/db-postgres`, `@payloadcms/richtext-lexical`, `@payloadcms/translations` (**PT-BR**)
+- **PostgreSQL 16** — Docker local na porta **5433**
+- **Prisma 6** — modelo `StaffAccount` (área `/equipe`)
+- **NextAuth 5 beta** — Credentials + JWT
+- **sharp** — pipeline de imagens + remoção de fundo do logo
+- **Tipografia** — **Outfit**, **Geist**, **Geist Mono**, **Instrument Serif** (todas via `next/font/google`)
+
+---
+
+### Focux — API (SaaS multi-tenant · personal trainers)
+
+**Escopo:** REST multi-tenant com segregação por `personal_id` derivado do JWT; segurança por método; domínios de negócio (alunos, treinos, financeiro, CRM, alertas, chat, feed, IA); deploy contínuo.
+
+**Stack**
+
+- **Java 21** · **Spring Boot 3.4.4** · **Gradle**
+- **PostgreSQL** · **Flyway** (`flyway-database-postgresql`)
+- **Spring ecosystem** — Web, Data JPA, **Security** (`@EnableMethodSecurity`), Validation, Mail, **WebSocket**, **Actuator**, **Cache** (Caffeine)
+- **JWT** — jjwt **0.12.5** (api / impl / jackson)
+- **Pagamentos** — Mercado Pago Java SDK **2.1.7** (PIX, preferências, webhooks)
+- **Mídia** — Cloudinary HTTP client
+- **Push** — Firebase Admin **9.4.1**
+- **Realtime** — STOMP sobre Spring WebSocket
+- **IA** — Claude API (Anthropic)
+- **Contratos & DX** — Springdoc OpenAPI **2.7.0** (Swagger UI)
+- **Confiabilidade** — Resilience4j **2.2.0**, Shedlock (**jdbc-template**), Micrometer **Tracing (Brave)** + registry **Prometheus**
+- **Deploy** — **Railway** · CI/CD na branch `master`
+
+---
+
+### Focux — App mobile
+
+**Escopo:** cliente Flutter com dois perfis (**Personal** e **Aluno**), navegação declarativa, consumo da API com JWT, realtime, push e módulos de produto (financeiro, CRM, chat, IA, mídia).
+
+**Stack**
+
+- **Flutter 3.29.3** · **Dart** (`sdk: ^3.7.2`)
+- **Estado** — `flutter_riverpod`
+- **Rotas** — `go_router`
+- **HTTP** — `dio` (cliente + interceptor JWT)
+- **Armazenamento** — `flutter_secure_storage` · `shared_preferences` (web)
+- **Realtime** — `stomp_dart_client` (STOMP)
+- **Push** — `firebase_messaging`
+- **UI & conteúdo** — `flutter_markdown` · `video_player` · `fl_chart`
+- **Documentos** — `pdf` · `printing`
+- **Distribuição** — pipeline Android (`appbundle` → Play Console), estrutura iOS no projeto
+
+<br/>
+
+---
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devmatheus1912&bg_color=0D1117&color=FF6B00&line=FF6B00&point=FFFFFF&area=true&area_color=FF6B0020&hide_border=true" width="100%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devmatheus1912&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=e2e8f0&icon_color=38bdf8&text_color=cfd8e3&border_radius=10" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheus1912&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=e2e8f0&text_color=cfd8e3&border_radius=10" alt="Linguagens mais usadas" />
+
+<img src="https://streak-stats.demolab.com?user=devmatheus1912&hide_border=true&border_radius=10&background=0D1117&stroke=334155&ring=38BDF8&fire=F97316&currStreakLabel=E2E8F0&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=CFE1FF&dates=94A3B8" alt="Sequência de contribuições no GitHub" />
+
+![](https://komarev.com/ghpvc/?username=devmatheus1912&color=334155&style=flat-square&label=Visitas)
 
 </div>
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=devmatheus1912&color=FF6B00&style=for-the-badge&label=VISITANTES)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=80&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:020617&height=90&section=footer">
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:e2e8f0,100:f8fafc&height=90&section=footer">
+</picture>
