@@ -40,12 +40,20 @@ Marketing acadêmico com Payload CMS 3 em PT-BR, páginas ricas de curso, painel
 
 <table>
 <tr valign="top">
-<td align="center" width="58%"><sub><b>Desktop</b> · editorial</sub><br/><br/><img width="380" alt="Faculdade Goiás — desktop editorial" src="assets/faculdade-goias-desktop-editorial.png" /></td>
-<td align="center" width="42%"><sub><b>Mobile</b></sub><br/><br/><img width="220" alt="Faculdade Goiás — mobile" src="assets/faculdade-goias-mobile-library.png" /></td>
-</tr>
-<tr valign="top">
-<td align="center"><sub><b>Desktop</b> · hero</sub><br/><br/><img width="380" alt="Faculdade Goiás — hero desktop" src="assets/faculdade-goias-desktop-leadership.png" /></td>
-<td align="center"><sub><b>Mobile</b></sub><br/><br/><img width="220" alt="Faculdade Goiás — hero mobile" src="assets/faculdade-goias-mobile-campus.png" /></td>
+<td align="center" width="52%">
+  <b>Desktop</b><br/><br/>
+  <sub>Editorial</sub><br/>
+  <img width="360" alt="Faculdade Goiás — desktop editorial" src="assets/faculdade-goias-desktop-editorial.png" /><br/><br/>
+  <sub>Hero</sub><br/>
+  <img width="360" alt="Faculdade Goiás — hero desktop" src="assets/faculdade-goias-desktop-leadership.png" />
+</td>
+<td align="center" width="48%">
+  <b>Mobile</b><br/><br/>
+  <sub>Editorial</sub><br/>
+  <img width="200" alt="Faculdade Goiás — mobile editorial" src="assets/faculdade-goias-mobile-library.png" /><br/><br/>
+  <sub>Hero</sub><br/>
+  <img width="200" alt="Faculdade Goiás — mobile hero" src="assets/faculdade-goias-mobile-campus.png" />
+</td>
 </tr>
 </table>
 
