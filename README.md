@@ -27,13 +27,32 @@
 
 Marketing acadêmico com Payload CMS 3 em PT-BR, páginas ricas de curso, painel de credenciamento e-MEC gerado server-side, rastreamento UTM preservado, CI/CD documentado e deploy em Vercel + Neon.
 
+<p align="center">
+  <a href="https://faculdade-goias.vercel.app/"><b>Demo ao vivo</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://faculdade-goias.vercel.app/admin"><b>Painel CMS</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/devmatheus1912/Faculdade-Goi-s"><b>Repositório</b></a>
+</p>
+
+<p align="center">
+  <img width="420" alt="Faculdade Goiás — desktop" src="https://raw.githubusercontent.com/devmatheus1912/Faculdade-Goi-s/master/docs/readme-screenshots/faculdade-goias-desktop-editorial.png" />
+  &nbsp;
+  <img width="260" alt="Faculdade Goiás — mobile" src="https://raw.githubusercontent.com/devmatheus1912/Faculdade-Goi-s/master/docs/readme-screenshots/faculdade-goias-mobile-library.png" />
+</p>
+<p align="center">
+  <img width="420" alt="Faculdade Goiás — hero desktop" src="https://raw.githubusercontent.com/devmatheus1912/Faculdade-Goi-s/master/docs/readme-screenshots/faculdade-goias-desktop-leadership.png" />
+  &nbsp;
+  <img width="260" alt="Faculdade Goiás — hero mobile" src="https://raw.githubusercontent.com/devmatheus1912/Faculdade-Goi-s/master/docs/readme-screenshots/faculdade-goias-mobile-campus.png" />
+</p>
+
 <table>
 <tr><td><b>Camada</b></td><td><b>Tecnologia</b></td></tr>
-<tr><td>Framework</td><td>Next.js 15 · App Router · React Server Components · <code>force-dynamic</code></td></tr>
+<tr><td>Framework</td><td>Next.js 16 · App Router · React Server Components · <code>force-dynamic</code></td></tr>
 <tr><td>UI</td><td>React 19 · Tailwind v4 · shadcn/ui · Framer Motion 12</td></tr>
 <tr><td>CMS</td><td>Payload CMS 3.84 · Lexical · db-postgres · translations PT-BR</td></tr>
 <tr><td>Auth</td><td>NextAuth 5 beta (Credentials + JWT) · Prisma 6 (<code>StaffAccount</code>)</td></tr>
-<tr><td>Banco</td><td>PostgreSQL 16 — dois schemas isolados (CMS / staff)</td></tr>
+<tr><td>Banco</td><td>PostgreSQL 16 — dois bancos isolados (CMS Payload / staff Prisma)</td></tr>
 <tr><td>Mídia</td><td>sharp · Vercel Blob · imageSizes WebP automático</td></tr>
 <tr><td>Deploy</td><td>Vercel · Neon · GitHub Actions (migrate → lint → build)</td></tr>
 <tr><td>Tipografia</td><td>Outfit · Geist · Geist Mono · Instrument Serif</td></tr>
@@ -87,6 +106,22 @@ Cliente com perfis Personal e Aluno, navegação declarativa, consumo da API com
 <tr><td>Documentos</td><td>pdf · printing</td></tr>
 <tr><td>Distribuição</td><td>appbundle → Play Console · estrutura iOS no projeto</td></tr>
 </table>
+
+<p align="center"><b>Interface — fluxos reais do app</b></p>
+<p align="center">
+  <img width="148" alt="FOCUX — login" src="https://raw.githubusercontent.com/devmatheus1912/focux-app/main/docs/github-profile-screenshots/focux-login.png" />
+  &nbsp;
+  <img width="148" alt="FOCUX — dashboard" src="https://raw.githubusercontent.com/devmatheus1912/focux-app/main/docs/github-profile-screenshots/focux-dashboard.png" />
+  &nbsp;
+  <img width="148" alt="FOCUX — treino" src="https://raw.githubusercontent.com/devmatheus1912/focux-app/main/docs/github-profile-screenshots/focux-workout-detail.png" />
+  &nbsp;
+  <img width="148" alt="FOCUX — copiloto IA" src="https://raw.githubusercontent.com/devmatheus1912/focux-app/main/docs/github-profile-screenshots/focux-copilot.png" />
+  &nbsp;
+  <img width="148" alt="FOCUX — wallet / pagamentos" src="https://raw.githubusercontent.com/devmatheus1912/focux-app/main/docs/github-profile-screenshots/focux-wallet.png" />
+</p>
+<p align="center">
+  <a href="https://github.com/devmatheus1912/focux-app"><b>Repositório focux-app</b></a>
+</p>
 
 <br/>
 
