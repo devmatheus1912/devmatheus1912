@@ -38,16 +38,16 @@ Marketing acadêmico com Payload CMS 3 em PT-BR, páginas ricas de curso, painel
   <a href="https://github.com/devmatheus1912/Faculdade-Goi-s"><b>Repositório</b></a>
 </p>
 
-<p align="center">
-  <img width="420" alt="Faculdade Goiás — desktop" src="assets/faculdade-goias-desktop-editorial.png" />
-  &nbsp;
-  <img width="260" alt="Faculdade Goiás — mobile" src="assets/faculdade-goias-mobile-library.png" />
-</p>
-<p align="center">
-  <img width="420" alt="Faculdade Goiás — hero desktop" src="assets/faculdade-goias-desktop-leadership.png" />
-  &nbsp;
-  <img width="260" alt="Faculdade Goiás — hero mobile" src="assets/faculdade-goias-mobile-campus.png" />
-</p>
+<table>
+<tr valign="top">
+<td align="center" width="58%"><sub><b>Desktop</b> · editorial</sub><br/><br/><img width="380" alt="Faculdade Goiás — desktop editorial" src="assets/faculdade-goias-desktop-editorial.png" /></td>
+<td align="center" width="42%"><sub><b>Mobile</b></sub><br/><br/><img width="220" alt="Faculdade Goiás — mobile" src="assets/faculdade-goias-mobile-library.png" /></td>
+</tr>
+<tr valign="top">
+<td align="center"><sub><b>Desktop</b> · hero</sub><br/><br/><img width="380" alt="Faculdade Goiás — hero desktop" src="assets/faculdade-goias-desktop-leadership.png" /></td>
+<td align="center"><sub><b>Mobile</b></sub><br/><br/><img width="220" alt="Faculdade Goiás — hero mobile" src="assets/faculdade-goias-mobile-campus.png" /></td>
+</tr>
+</table>
 
 <table>
 <tr><td><b>Camada</b></td><td><b>Tecnologia</b></td></tr>
@@ -111,17 +111,17 @@ Cliente com perfis Personal e Aluno, navegação declarativa, consumo da API com
 </table>
 
 <p align="center"><b>Interface — fluxos reais do app</b></p>
-<p align="center">
-  <img width="148" alt="FOCUX — login" src="assets/focux-login.png" />
-  &nbsp;
-  <img width="148" alt="FOCUX — dashboard" src="assets/focux-dashboard.png" />
-  &nbsp;
-  <img width="148" alt="FOCUX — treino" src="assets/focux-workout-detail.png" />
-  &nbsp;
-  <img width="148" alt="FOCUX — copiloto IA" src="assets/focux-copilot.png" />
-  &nbsp;
-  <img width="148" alt="FOCUX — wallet / pagamentos" src="assets/focux-wallet.png" />
-</p>
+
+<table align="center">
+<tr valign="top">
+<td align="center"><img width="132" alt="FOCUX — login" src="assets/focux-login.png" /></td>
+<td align="center"><img width="132" alt="FOCUX — dashboard" src="assets/focux-dashboard.png" /></td>
+<td align="center"><img width="132" alt="FOCUX — treino" src="assets/focux-workout-detail.png" /></td>
+<td align="center"><img width="132" alt="FOCUX — copiloto IA" src="assets/focux-copilot.png" /></td>
+<td align="center"><img width="132" alt="FOCUX — wallet / pagamentos" src="assets/focux-wallet.png" /></td>
+</tr>
+</table>
+
 <p align="center">
   <a href="https://github.com/devmatheus1912/focux-app"><b>Repositório focux-app</b></a>
 </p>
