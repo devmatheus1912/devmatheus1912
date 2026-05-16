@@ -38,22 +38,21 @@ Marketing acadêmico com Payload CMS 3 em PT-BR, páginas ricas de curso, painel
   <a href="https://github.com/devmatheus1912/Faculdade-Goi-s"><b>Repositório</b></a>
 </p>
 
+<p align="center"><b>Desktop</b></p>
 <table>
 <tr valign="top">
-<td align="center" width="52%">
-  <b>Desktop</b><br/><br/>
-  <sub>Editorial</sub><br/>
-  <img width="360" alt="Faculdade Goiás — desktop editorial" src="assets/faculdade-goias-desktop-editorial.png" /><br/><br/>
-  <sub>Hero</sub><br/>
-  <img width="360" alt="Faculdade Goiás — hero desktop" src="assets/faculdade-goias-desktop-leadership.png" />
-</td>
-<td align="center" width="48%">
-  <b>Mobile</b><br/><br/>
-  <sub>Editorial</sub><br/>
-  <img width="200" alt="Faculdade Goiás — mobile editorial" src="assets/faculdade-goias-mobile-library.png" /><br/><br/>
-  <sub>Hero</sub><br/>
-  <img width="200" alt="Faculdade Goiás — mobile hero" src="assets/faculdade-goias-mobile-campus.png" />
-</td>
+<td align="center" width="50%"><sub>Editorial</sub><br/><img width="340" alt="Faculdade Goiás — desktop editorial" src="assets/faculdade-goias-desktop-editorial.png" /></td>
+<td align="center" width="50%"><sub>Hero</sub><br/><img width="340" alt="Faculdade Goiás — hero desktop" src="assets/faculdade-goias-desktop-leadership.png" /></td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center"><b>Mobile</b></p>
+<table>
+<tr valign="top">
+<td align="center" width="50%"><sub>Editorial</sub><br/><img width="200" alt="Faculdade Goiás — mobile editorial" src="assets/faculdade-goias-mobile-library.png" /></td>
+<td align="center" width="50%"><sub>Hero</sub><br/><img width="200" alt="Faculdade Goiás — mobile hero" src="assets/faculdade-goias-mobile-campus.png" /></td>
 </tr>
 </table>
 
