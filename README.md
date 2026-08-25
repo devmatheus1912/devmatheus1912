@@ -70,11 +70,8 @@
   <h3>GitHub Stats</h3>
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmatheus1912&theme=github_dark" alt="profile details"/>
   <br/><br/>
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=devmatheus1912&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0&ring_color=38BDF8" alt="stats"/>
-  &nbsp;
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devmatheus1912&theme=github_dark&utcOffset=-3" alt="productive time"/>
-  <br/><br/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devmatheus1912&theme=github_dark" alt="summary stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devmatheus1912&theme=github_dark" alt="stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devmatheus1912&theme=github_dark&utcOffset=-3" alt="productive time"/>
 </div>
 
 ---
