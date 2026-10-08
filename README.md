@@ -7,7 +7,7 @@
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=devmatheus1912&show_icons=true&include_all_commits=true&count_private=true&theme=swift&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=devmatheus1912&show_icons=true&theme=swift&hide_border=false"
     height="150"
     alt="GitHub stats"
   />
