@@ -22,7 +22,29 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?color_snake=#b388ff&color_dots=#161b22,#0f5132,#1fa84f,#39d353,#7dffa0
+
+      - name: Add pulsing glow to the dark SVG
+        run: |
+          python3 - <<'PY'
+          import pathlib
+          p = pathlib.Path("dist/github-snake-dark.svg")
+          s = p.read_text()
+          defs = (
+              '<defs><filter id="glow" x="-100%" y="-100%" width="300%" height="300%" color-interpolation-filters="sRGB">'
+              '<feGaussianBlur in="SourceGraphic" stdDeviation="1.2" result="b">'
+              '<animate attributeName="stdDeviation" values="1.2;2.8;1.2" dur="2.5s" repeatCount="indefinite"/>'
+              '</feGaussianBlur>'
+              '<feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>'
+              '</filter></defs>'
+          )
+          css = '.c[class^="c "]{filter:url(#glow)}'
+          assert "</style>" in s, "unexpected SVG: no <style> found"
+          s = s.replace("</style>", css + "</style>", 1)
+          s = s.replace("</style>", "</style>" + defs, 1)
+          p.write_text(s)
+          print("glow applied")
+          PY
 
       - name: Push to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
