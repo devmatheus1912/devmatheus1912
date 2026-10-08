@@ -133,17 +133,17 @@ flowchart TD
 
 <img src="https://streak-stats.demolab.com?user=devmatheus1912&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=devmatheus1912&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
-
 </div>
 
 ### ✦ Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devmatheus1912&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true&custom_title=MATHEUS%20OLIVEIRA%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devmatheus1912/devmatheus1912/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devmatheus1912/devmatheus1912/output/github-snake.svg" />
+  <img alt="Snake animation eating my contributions" src="https://raw.githubusercontent.com/devmatheus1912/devmatheus1912/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
