@@ -58,6 +58,7 @@ flowchart LR
 | Area | Focus |
 | :-- | :-- |
 | **SaaS** | Multi-tenant platforms, business systems & scalable architecture |
+| **Frontend** | Modern web interfaces and full-stack applications with Next.js and React |
 | **Mobile** | Cross-platform applications with Flutter |
 | **Backend** | REST APIs, authentication, business logic & integrations |
 | **AI** | AI-powered features, automation & intelligent workflows |
@@ -69,8 +70,9 @@ flowchart LR
 | | |
 | :-- | :-- |
 | **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres,mysql,redis&theme=dark" alt="Java, Spring, Node.js, PostgreSQL, MySQL, Redis" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react&theme=dark" alt="Next.js, React" /> |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter, Dart" /> |
-| **Cloud & Infra** | <img src="https://skillicons.dev/icons?i=aws,docker,linux,firebase&theme=dark" alt="AWS, Docker, Linux, Firebase" /> |
+| **Cloud & Infra** | <img src="https://skillicons.dev/icons?i=aws,docker,linux,firebase,vercel&theme=dark" alt="AWS, Docker, Linux, Firebase, Vercel" /> |
 | **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Git, GitHub, Postman, VS Code" /> |
 
 **AI & modern development:** LLM applications · AI-assisted development · automation · intelligent workflows · API integrations
