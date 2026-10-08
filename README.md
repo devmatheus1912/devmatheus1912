@@ -1,135 +1,124 @@
 <div align="center">
 
-# 👋 Hi, I'm Matheus Oliveira
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:58A6FF&height=200&section=header&text=Matheus%20Oliveira&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20SaaS%20Builder%20%C2%B7%20Mobile%20%C2%B7%20AI&descAlignY=60&descSize=18" alt="Matheus Oliveira" />
 
-### Software Developer · SaaS Builder · Mobile · AI
-
-<p>
-  <a href="https://focuxpersonal.com">
-    <img src="https://img.shields.io/badge/Focux%20Personal-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Focux Personal" />
-  </a>
-  <a href="mailto:matheusos1912@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
-  </a>
-  <a href="https://instagram.com/devmatheusbb">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=devmatheus1912&label=Profile%20Views&color=111111&style=flat" alt="Profile views" />
-
-<br />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=700&lines=Building+SaaS+products+from+idea+to+production;Creating+mobile+experiences+for+iOS+%26+Android;Engineering+scalable+APIs+and+backend+systems;Exploring+AI+and+intelligent+software" alt="Typing SVG" />
+<a href="https://github.com/devmatheus1912/devmatheus1912">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=I+don%27t+just+write+code.+I+build+products.;Building+Focux+Personal+%F0%9F%8F%8B%EF%B8%8F;SaaS+%C2%B7+Mobile+%C2%B7+Backend+%C2%B7+AI" alt="Typing SVG" />
 </a>
+
+<br><br>
+
+<a href="https://focuxpersonal.com"><img src="https://img.shields.io/badge/Focux%20Personal-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Focux Personal" /></a>
+<a href="https://www.instagram.com/devmatheusbb"><img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:matheusos1912@icloud.com"><img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=devmatheus1912&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm a **Software Developer and SaaS Builder** focused on creating complete digital products.
+I'm a **Software Developer** and **SaaS Builder** focused on turning ideas into real, scalable products.
 
-My work combines **software engineering, mobile development, backend architecture, artificial intelligence and product thinking** to transform ideas into real-world applications.
+I work mainly with backend development, mobile applications, cloud infrastructure and AI-powered features, building systems **from architecture to production**.
 
-I enjoy working across the entire product lifecycle — from architecture and databases to APIs, mobile interfaces, cloud infrastructure and intelligent features.
+Right now I'm building **[Focux Personal](https://focuxpersonal.com)**, a SaaS platform for personal trainers to manage their business, clients and performance in one ecosystem.
 
-### What I build
-
-* 🚀 SaaS platforms and digital products
-* 📱 Mobile applications for iOS & Android
-* ⚙️ Scalable REST APIs and backend systems
-* 🤖 AI-powered features and LLM integrations
-* 🗄️ Data-driven applications and business systems
-* ☁️ Cloud infrastructure and deployment
-* 🔐 Secure and maintainable software architectures
+> 💬 *I don't just write code. I build products.*
 
 ---
 
-## 🚀 Featured Project
+## 🧠 What I Build
+
+| Area | Focus |
+| :-- | :-- |
+| 🏗️ **SaaS** | Multi-tenant platforms, business systems & scalable architecture |
+| 📱 **Mobile** | Cross-platform applications with Flutter |
+| ⚙️ **Backend** | REST APIs, authentication, business logic & integrations |
+| 🤖 **AI** | AI-powered features, automation & intelligent workflows |
+| ☁️ **Cloud** | Deployment, infrastructure & production environments |
+| 🔐 **Security** | Secure APIs, authentication & application security |
+
+---
+
+## ⚡ Featured Product
 
 <div align="center">
 
-### Focux Personal
+### [Focux Personal](https://focuxpersonal.com)
 
-**Technology · AI · Performance**
+**Treine com dados. Evolua com inteligência.**
 
 </div>
 
-**Focux Personal** is a SaaS platform I created and developed from the ground up for personal trainers.
+Focux Personal is a SaaS platform created and developed from scratch to help personal trainers manage their entire operation: clients, training, finance, CRM, analytics and intelligent features.
 
-The platform combines **mobile applications, scalable APIs, data-driven features and artificial intelligence** into a single ecosystem designed to help fitness professionals manage their businesses and deliver better experiences to their clients.
-
-### Product
-
-| Area              | Focus                                            |
-| ----------------- | ------------------------------------------------ |
-| 📱 Mobile         | Cross-platform experience for iOS & Android      |
-| ⚙️ Backend        | REST APIs and business architecture              |
-| 🤖 AI             | Intelligent features and AI-assisted experiences |
-| 📊 Data           | Performance and data-driven functionality        |
-| 👥 Management     | Personal trainers, clients and workflows         |
-| 💰 Business       | Financial and business management                |
-| 🔐 Security       | Authentication, authorization and protected APIs |
-| ☁️ Infrastructure | Cloud-based application architecture             |
-
-### Core Stack
-
-`Java` `Spring Boot` `Flutter` `Dart` `PostgreSQL` `Redis` `Firebase` `Docker` `AI`
+```mermaid
+flowchart TD
+    F["⚡ FOCUX PERSONAL"] --> C["👤 Clients"]
+    F --> T["🏋️ Training"]
+    F --> M["💰 Finance"]
+    C --> AI["🤖 AI & Insights"]
+    T --> AI
+    M --> AI
+    AI --> P["📊 Performance Data"]
+```
 
 <div align="center">
 
-<a href="https://focuxpersonal.com">
-  <img src="https://img.shields.io/badge/Explore%20Focux%20Personal-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Focux Personal" />
-</a>
+<a href="https://focuxpersonal.com"><img src="https://img.shields.io/badge/Visit%20Focux%20Personal-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Focux Personal" /></a>
 
 </div>
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
-### Backend
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" height="48" alt="Backend technologies" />
-</p>
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,postgres,mysql,redis&theme=dark" alt="Backend stack" />
 
-**Java · Spring Boot · REST APIs · Node.js**
+**Mobile**<br>
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Mobile stack" />
 
-### Mobile
+**Cloud & Infrastructure**<br>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,firebase&theme=dark" alt="Cloud stack" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react" height="48" alt="Mobile technologies" />
-</p>
+**Tools & Workflow**<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" alt="Tools" />
 
-**Flutter · Dart · React Native**
+</div>
 
-### Database & Data
+**🤖 AI & Modern Development:** `Artificial Intelligence` · `LLM Applications` · `AI-assisted Development` · `Automation` · `Intelligent Workflows` · `API Integrations`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,firebase" height="48" alt="Database technologies" />
-</p>
+---
 
-**PostgreSQL · MySQL · Redis · Firebase**
+## 📌 Selected Projects
 
-### Cloud & DevOps
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| ⚡ **[Focux Personal](https://focuxpersonal.com)** | Platform for personal trainers with client management, training, finance, CRM, analytics and intelligent features. | `SaaS` `Mobile` `AI` |
+| 🏢 **Faculdade Goiás** | Institutional web platform built with a modern full-stack architecture. | `Next.js` `Payload CMS` `Vercel` `Neon` |
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,bash,git" height="48" alt="Cloud and DevOps technologies" />
-</p>
+---
 
-**Docker · AWS · Linux · Bash · Git**
+## 🔭 Currently Building
 
-### AI & Intelligent Systems
+**Focux Personal**, a modern SaaS ecosystem for personal trainers powered by data, automation and AI.
 
-<p align="center">
+- 🧠 AI-powered product features
+- 🏗️ Scalable SaaS architecture
+- 📱 Mobile experience
+- 🔐 Security & authentication
+- ☁️ Cloud infrastructure
+- 📊 Data & performance analytics
+- ⚙️ Automation & integrations
 
-`Artificial Intelligence` · `LLMs` · `LangChain` · `AI Integration`
+## 🌱 Currently Exploring
 
-</p>
+`AI Engineering` → `Cloud Architecture` → `Cybersecurity` → `Scalable Systems` → `Product Engineering`
 
 ---
 
@@ -137,73 +126,45 @@ The platform combines **mobile applications, scalable APIs, data-driven features
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devmatheus1912&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" height="180" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=devmatheus1912&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheus1912&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="Top languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheus1912&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="180" alt="Top Languages" />
+<br>
+
+<img src="https://streak-stats.demolab.com?user=devmatheus1912&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=devmatheus1912&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
 
 </div>
 
-<br />
+### ✦ Contribution Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=devmatheus1912&hide_border=true&background=FFFFFF00&ring=111111&fire=111111&currStreakLabel=111111" height="180" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devmatheus1912&bg_color=ffffff00&color=111111&line=111111&point=111111&area=true&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devmatheus1912&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true&custom_title=MATHEUS%20OLIVEIRA%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph" />
 
 </div>
 
 ---
 
-## 🎯 Currently Exploring
+## 💡 Engineering Philosophy
 
-```text
-Artificial Intelligence
-Software Architecture
-Cybersecurity
-Cloud Infrastructure
-Scalable SaaS Systems
-AI-powered Applications
-```
+`Ideas` → `Architecture` → `Development` → `Testing` → `Deployment` → `Real Users` → `Continuous Improvement`
 
-I'm continuously exploring how **AI, software engineering and product development** can work together to create better digital products.
+Great software is not only about technology. It's about **solving real problems**, creating useful products and continuously improving them.
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-<a href="https://github.com/devmatheus1912">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+⚡ *Building consistently. Shipping continuously.*
 
-<a href="https://focuxpersonal.com">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
+**Building products where technology, AI and performance meet.**
 
-<a href="https://instagram.com/devmatheusbb">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer" alt="footer" />
 
-<a href="mailto:matheusos1912@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
-
-### Building products where technology, AI and performance meet.
+© Matheus Oliveira
 
 </div>
