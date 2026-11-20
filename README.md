@@ -4,7 +4,7 @@
 
 **Software Developer · SaaS Builder · Mobile · AI**
 
-[Focux Personal](https://focuxpersonal.com) &nbsp;•&nbsp; [Instagram](https://www.instagram.com/devmatheusbb) &nbsp;•&nbsp; [Email](mailto:matheusos1912@icloud.com)
+[Focux Personal](https://focuxpersonal.com) &nbsp;•&nbsp; [Instagram](https://www.instagram.com/devmatheus.ai/) &nbsp;•&nbsp; [Email](mailto:matheusos1912@icloud.com)
 
 </div>
 
@@ -111,7 +111,7 @@ Great software is not only about technology. It's about solving real problems, c
 
 <div align="center">
 
-**Let's connect:** [GitHub](https://github.com/devmatheus1912) &nbsp;•&nbsp; [Instagram](https://www.instagram.com/devmatheusbb) &nbsp;•&nbsp; [focuxpersonal.com](https://focuxpersonal.com) &nbsp;•&nbsp; [Email](mailto:matheusos1912@icloud.com)
+**Let's connect:** [GitHub](https://github.com/devmatheus1912) &nbsp;•&nbsp; [Instagram](https://www.instagram.com/devmatheus.ai/) &nbsp;•&nbsp; [focuxpersonal.com](https://focuxpersonal.com) &nbsp;•&nbsp; [Email](mailto:matheusos1912@icloud.com)
 
 *Building products where technology, AI and performance meet.*
 
