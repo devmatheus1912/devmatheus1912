@@ -86,20 +86,11 @@ flowchart LR
 
 ## GitHub activity
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devmatheus1912&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmatheus1912&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=8" alt="Top languages" />
-
-<br><br>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devmatheus1912/devmatheus1912/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devmatheus1912/devmatheus1912/output/github-snake.svg" />
-  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/devmatheus1912/devmatheus1912/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devmatheus1912/devmatheus1912/main/assets/activity-dark.svg?v=20261125" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devmatheus1912/devmatheus1912/main/assets/activity-light.svg?v=20261125" />
+  <img width="100%" alt="7,200 contributions in the last year. Current streak 22 days, longest 29, 165 active days. Dart 54.7%, Java 38.0%, TypeScript 5.0%." src="https://raw.githubusercontent.com/devmatheus1912/devmatheus1912/main/assets/activity-dark.svg?v=20261125" />
 </picture>
-
-</div>
 
 ## Engineering philosophy
 
